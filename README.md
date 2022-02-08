@@ -1,2 +1,6 @@
 # Analise-dos-dados-da-GooglePlayStore
-Os aplicativos móveis estão por toda parte. Eles são fáceis de criar e podem ser lucrativos. Por causa desses dois fatores, cada vez mais aplicativos estão sendo desenvolvidos. Neste notebook, faremos uma análise abrangente do mercado de aplicativos Android, comparando mais de dez mil aplicativos no Google Play em diferentes categorias. Buscaremos percepções nos dados para planejar estratégias para impulsionar o crescimento e a retenção.
+Neste repositório, faremos uma análise abrangente do mercado de aplicativos Android, comparando mais de dez mil aplicativos na Google Play Store.
+
+- GooglePlayStore.ipynb: Jupyter notebook contendo a análise completa do dataser
+- googleplaystore.csv: Dataset contendo as informações de cada aplicativo
+- googleplaystore_user_reviews.csv: Dataset contendo as informações relativas a avaliações de usuários
