@@ -4,4 +4,4 @@ Neste repositório, faremos com uso da linguagem python uma análise abrangente 
 
 - GooglePlayStore.ipynb: Jupyter notebook contendo a análise completa do dataset
 - googleplaystore.csv: Dataset contendo as informações de cada aplicativo
-- googleplaystore_user_reviews.csv: Dataset contendo as informações relativas a avaliações de usuários
+- googleplaystore_user_reviews.csv: Dataset contendo as informações relativas a avaliações de usuários 
